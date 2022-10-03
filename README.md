@@ -128,3 +128,6 @@ docker run --rm --name jenkins-casc -p 8080:8080 test-jcasc:v1
 # Ref
 - https://github.com/jenkinsci/configuration-as-code-plugin/tree/master/demos
 - https://verifa.io/blog/getting-started-with-jenkins-config-as-code/index.html
+
+# local ref
+- http://localhost:8080/configuration-as-code/reference
